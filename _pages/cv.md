@@ -11,8 +11,6 @@ redirect_from:
 
 Education
 ======
-* B.S. in Northwest University of Nationality, 2017
-* M.S. in Xi'an University of Technology, 2020
 * Ph.D in University of Electronics Science and Technology of China, 2026 (expected)
 
 Research interests
